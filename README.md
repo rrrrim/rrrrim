@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on AI company as a intern!
-🌱 I’m currently learning Data Science, Algorithms and Security Engineering.
+🔭 I’m currently working on AI company as a intern!<br>
+🌱 I’m currently learning Data Science, Algorithms and Security Engineering.<br>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
